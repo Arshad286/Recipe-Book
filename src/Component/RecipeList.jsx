@@ -12,7 +12,7 @@ function RecipeList() {
         const response = await axios.get('https://api.spoonacular.com/recipes/random', {
           params: {
             number: 10,
-            apiKey: 'b8a2f5f045c845ba8f484074e10160ce',
+            apiKey: 'nev',
           },
         });
         setRecipes(response.data.recipes);

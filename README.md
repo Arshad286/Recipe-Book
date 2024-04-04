@@ -61,5 +61,5 @@ This is a Recipe Book application built using React.js. It allows users to brows
 
 ## Deployment
 
-The app is deployed to [Netlify](https://www.netlify.com/). You can view the deployed version [here](recipebook2.netlify.app).
+The app is deployed to [Netlify](https://www.netlify.com/). You can view the deployed version [here]((https://recipebook2.netlify.app/).
 
